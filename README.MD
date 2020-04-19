@@ -1,1 +1,1 @@
-![演示图](./bottom-sheet-demo.git)
+![演示图](https://github.com/yinjunok/bottom-sheet-demo/raw/master/bottom-sheet-demo.gif)
